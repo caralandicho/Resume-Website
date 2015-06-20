@@ -1,0 +1,77 @@
+/* 
+    Created on : Jun 19, 2015, 6:32:23 PM
+    Author     : caralandicho
+*/
+
+#about
+{
+    background-color: white;
+    border-top: solid salmon;
+    border-top-width: 8px;
+    color: #646E7D;
+    float: left;
+    font-size: 20px;
+    margin: 50px 0px 0px 100px;
+    padding: 20px 150px;
+}
+
+#about h1
+{
+    color: salmon;
+    margin-top: 1px;
+    margin-left: 120px;
+}
+
+#box
+{
+    background-color: salmon;
+    border-radius: 10%;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+#page
+{
+    
+}
+
+a
+{
+    color: #FCCBC8;
+    font-family: Cambria;
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+body
+{
+    background-color: #F0F1F3;
+    margin: 0px;
+}
+
+footer
+{
+    margin: 500px;
+}
+
+header
+{
+    background-color: #242D36;
+    color: #F0F1F3;
+    font-family: Cambria;
+    padding: 10px;
+}
+
+nav
+{ 
+  float: right;
+  margin: 50px;
+  padding-right: 70px;
+} 
+
+
+
